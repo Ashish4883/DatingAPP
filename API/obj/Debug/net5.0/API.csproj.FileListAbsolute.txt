@@ -1,0 +1,88 @@
+D:\Project\DatingAPP\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\DatingAPP\API\bin\Debug\net5.0\appsettings.json
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.exe
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.deps.json
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.dll
+D:\Project\DatingAPP\API\bin\Debug\net5.0\API.pdb
+D:\Project\DatingAPP\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Project\DatingAPP\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.dll
+D:\Project\DatingAPP\API\obj\Debug\net5.0\refint\API.dll
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.pdb
+D:\Project\DatingAPP\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Project\DatingAPP\API\obj\Debug\net5.0\ref\API.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\appsettings.json
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.exe
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.deps.json
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\API.pdb
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Humanizer.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\Dating App\DatingAPP\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.dll
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\refint\API.dll
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.pdb
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Project\Dating App\DatingAPP\API\obj\Debug\net5.0\ref\API.dll
